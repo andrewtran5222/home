@@ -11,7 +11,7 @@ This is a relative link to [the README](README.md)
 1. While this,
 2. is an ordered list.
 This is an image of me committing changes from VSCode:
-![Image](Lab1sc2.png)
+![Image](screenshots/Lab1_6.JPG)
 - [x] And finally:
 - [ ] This is a task list.
 - [ ] Which can be checked or unchecked based on completion.
